@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/VSCODING/ESP32-main/.pio/build/esp32dev/CMakeFiles/bootloader
+D:/VSCODING/ESP32-main/.pio/build/esp32dev/CMakeFiles/bootloader.rule
+D:/VSCODING/ESP32-main/.pio/build/esp32dev/CMakeFiles/bootloader-complete.rule
+D:/VSCODING/ESP32-main/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/VSCODING/ESP32-main/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/VSCODING/ESP32-main/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/VSCODING/ESP32-main/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/VSCODING/ESP32-main/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/VSCODING/ESP32-main/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/VSCODING/ESP32-main/.pio/build/esp32dev/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
