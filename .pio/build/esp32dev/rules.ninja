@@ -1802,7 +1802,7 @@ rule C_STATIC_LIBRARY_LINKER____idf_src
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\ASUS\.platformio\packages\tool-cmake\bin\cmake.exe -SD:\VSCODING\ESP32-main -BD:\VSCODING\ESP32-main\.pio\build\esp32dev
+  command = C:\Users\ASUS\.platformio\packages\tool-cmake\bin\cmake.exe -SD:\VSCODING\ESP32-main-1 -BD:\VSCODING\ESP32-main-1\.pio\build\esp32dev
   description = Re-running CMake...
   generator = 1
 

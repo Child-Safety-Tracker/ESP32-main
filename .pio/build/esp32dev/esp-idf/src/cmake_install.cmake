@@ -1,4 +1,4 @@
-# Install script for directory: D:/VSCODING/ESP32-main/src
+# Install script for directory: D:/VSCODING/ESP32-main-1/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
