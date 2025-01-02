@@ -222,7 +222,7 @@ static prepare_type_env_t a_prepare_write_env;
 void example_write_event_env(esp_gatt_if_t gatts_if, prepare_type_env_t *prepare_write_env, esp_ble_gatts_cb_param_t *param);
 void example_exec_write_event_env(prepare_type_env_t *prepare_write_env, esp_ble_gatts_cb_param_t *param);
 
-/* https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/bluetooth/esp_gap_ble.html#_CPPv420esp_ble_adv_params_t */
+
 static esp_ble_adv_params_t ble_adv_params = {
     // Advertising min interval:
     // Minimum advertising interval for undirected and low duty cycle
